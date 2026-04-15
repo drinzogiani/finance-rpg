@@ -1,0 +1,12 @@
+:root {
+  --background: #f5f2ed;
+  --surface: #ffffff;
+  --surface-alt: #fbf7f1;
+  --surface-hover: #f4ede4;
+  --text: #1d1c1a;
+  --muted: #6f6b68;
+  --brand: #6d4c8a;
+  --brand-soft: #f4e9fb;
+  --border: #e6ded5;
+  --shadow-soft: 0 20px 80px rgba(99, 54, 147, 0.08);
+}
